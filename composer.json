@@ -1,5 +1,8 @@
 {
-    "name": "horde/horde",
+    "name": "horde6/horde",
+    "replace": {
+        "horde/horde": "^3 || dev-FRAMEWORK_6_0"
+    },
     "description": "Horde base application",
     "type": "horde-application",
     "homepage": "https://www.horde.org/apps/horde",

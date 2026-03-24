@@ -127,4 +127,4 @@ autoload:
     - lib/
   psr-4:
     Horde\Horde\: /src
-vendor: horde
+vendor: horde6
